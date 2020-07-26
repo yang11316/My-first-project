@@ -8,4 +8,5 @@ int add(int a, intb)
 int main()
 {
     printf("hello wzp\n");
+    printf("hei,i am coming for fun")
 }
